@@ -1,3 +1,4 @@
 let a=23;
 a=20;
-console.log(a);
+let b=100;
+console.log(a+b);
